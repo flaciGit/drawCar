@@ -6,4 +6,7 @@ Draw a car using the given control points, c++, Freeglut
 Hermite curve, Bézier curve and De Casteljau's algorithm were used.
 
 
+
+
+![alt text](https://github.com/flaciGit/drawCar/blob/master/img/carDrawing2.png?raw=true)
 ![alt text](https://github.com/flaciGit/drawCar/blob/master/img/carDrawing.png?raw=true)
